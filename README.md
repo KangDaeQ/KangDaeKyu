@@ -10,8 +10,8 @@
 
 **진행한 프로젝트**
 
-- [🔗 TravelTogether](https://github.com/KangDaeQ/SmartTrip.git) - AI 기반 여행 일정 추천 서비스
-- [🔗 DreamPocket](https://github.com/KangDaeQ/DreamPocket.git) - 10대, 20대를 위한 금융 상품 추천 서비스
+- [🔗 TravelTogether](https://github.com/KangDaeQ/SmartTrip.git) - AI 기반 여행 일정 추천 서비스 [Notion](https://www.notion.so/AI-1a7d41afdaa080ecb4e8cc1d3a0174a5?pvs=4)
+- [🔗 DreamPocket](https://github.com/KangDaeQ/DreamPocket.git) - 10대, 20대를 위한 금융 상품 추천 서비스 [Notion](https://www.notion.so/DreamPocket-171d41afdaa08032835becc75648c48a?pvs=4)
 
 
 **연락처**
